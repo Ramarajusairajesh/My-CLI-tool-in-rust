@@ -1,0 +1,11 @@
+/home/kubuntu/Documents/My-CLI-tool-in-rust/CLT/target/debug/deps/libbitflags-6a3e70c4f393a1b9.rmeta: /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs
+
+/home/kubuntu/Documents/My-CLI-tool-in-rust/CLT/target/debug/deps/bitflags-6a3e70c4f393a1b9.d: /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs /home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs
+
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs:
+/home/kubuntu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs:
