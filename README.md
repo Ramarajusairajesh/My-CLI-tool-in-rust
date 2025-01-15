@@ -33,6 +33,8 @@ To run the tool follow the following steps:
 
 
  Paste your api keys in the following order:
-  1.Gemini-api
-  2.Chatgpt-api
+  
+  1.Gemini-api-key
+  
+  2.Chatgpt-api-key
   
