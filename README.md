@@ -9,18 +9,30 @@ You can just change the value of the api variables in the script to your own api
 
 To run this tool you require the following tools
 
-Cargo
+**cargo**
 
-curl
+**curl**
 
 If your system doesn't have these then follow these steps to install:
 
-    sudo apt install curl #use pacman/yay for arch based os or use dnf for fedora based os 
+    sudo apt install curl #apt for debian or use pacman/yay for arch based os or use dnf for fedora based os 
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-  
+
+To create file the script to access apis:
+    
+    sudo mkdir /opt/keys
+    sudo chown -R $(whoami):$(whoami) /opt/keys
+    sudo vim /opt/keys/chatbots_api_keys.txt
+
+    
 To run the tool follow the following steps:
 
     git clone https://github.com/Ramarajusairajesh/My-CLI-tool-in-rust/
     cd My-CLI-tool-in-rust
     cargo run
 
+
+ Paste your api keys in the following order:
+  1.Gemini-api
+  2.Chatgpt-api
+  
