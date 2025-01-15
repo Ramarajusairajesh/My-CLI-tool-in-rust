@@ -18,7 +18,7 @@ If your system doesn't have these then follow these steps to install:
     sudo apt install curl #apt for debian or use pacman/yay for arch based os or use dnf for fedora based os 
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-To create file the script to access apis:
+To create aou file for the script to access api-keys:
     
     sudo mkdir /opt/keys
     sudo chown -R $(whoami):$(whoami) /opt/keys
